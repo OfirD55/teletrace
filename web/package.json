@@ -24,7 +24,7 @@
     "elkjs": "^0.8.2",
     "immer": "^9.0.17",
     "lodash-es": "^4.17.21",
-    "material-react-table": "^1.5.2",
+    "material-react-table": "^1.15.1",
     "nanoid": "^4.0.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
